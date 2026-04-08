@@ -34,17 +34,29 @@ Ensure unbiased and consistent loan approval decisions
 DATASET DESCRIPTION
 
 Column Name	Description
+
 Applicant_ID  -	Unique applicant ID
+
 Applicant_Income	- Monthly income of the applicant
+
 Coapplicant_Income -	Monthly income of the co-applicant
+
 Employment_Status	- Employment type (Salaried / Self-Employed / Business)
+
 Age	Applicant's - age
+
 Marital_Status -	Marital status (Married / Single)
+
 Dependents -	Number of dependents
+
 Credit_Score -	Credit bureau score
+
 Existing_Loans -	Number of currently active loans
+
 DTI_Ratio	- Debt-to-Income ratio
+
 Savings	- Savings balance of the applicant
+
 Collateral_Value -	Value of collateral provided
 Loan_Amount	- Loan amount requested
 Loan_Term	- Loan duration (in months)
