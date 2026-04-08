@@ -58,11 +58,19 @@ DTI_Ratio	- Debt-to-Income ratio
 Savings	- Savings balance of the applicant
 
 Collateral_Value -	Value of collateral provided
+
 Loan_Amount	- Loan amount requested
+
 Loan_Term	- Loan duration (in months)
+
 Loan_Purpose -	Purpose of loan (Home / Education / Personal / Business)
+
 Property_Area -	Location type (Urban / Semi-Urban / Rural)
+
 Education_Level -	Education level (Graduate / Postgraduate / Undergraduate)
+
 Gender -	Gender of the applicant (Male / Female)
+
 Employer_Category	- Employer type (Govt / Private / Self)
+
 Loan_Approved (Target) -	Loan approval status (1 = Approved, 0 = Rejected)
